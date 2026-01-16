@@ -1,5 +1,3 @@
-/*
-
 Project Spotlight: 
 
 Identifying Paediatric Demographic Anomalies
@@ -68,5 +66,3 @@ Tools Used:
 Database: Microsoft SQL Server (T-SQL)
 BI Tool: Power BI Desktop
 Techniques: Window Functions, Data Modeling, UX/UI Design
-
-*/
