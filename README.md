@@ -1,4 +1,4 @@
-Why I BUild this:
+Why I built this:
 
 This project was undertaken to demonstrate my interest in healthcare settings and ability to uncover significant industry KPIs.  I found that the 1.18%  national variance between males : females was concerning and warranted particular examination.  This whole process from Extraction to visualisaion of this key anomaly was quite rewading and what I enjoy about dealing with data.    
 
