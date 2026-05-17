@@ -69,21 +69,4 @@ Database: Microsoft SQL Server (T-SQL)
 BI Tool: Power BI Desktop
 Techniques: Window Functions, Data Modeling, UX/UI Design
 
-
-
-
-```sql
-SELECT 
-    Age_group,
-    Sex,
-    SUM(NSW + VIC + QLD + WA + SA + TAS + ACT + NT) AS Group_Volume,
-    CAST(SUM(NSW + VIC + QLD + WA + SA + TAS + ACT + NT) * 100.0 / 
-         SUM(SUM(NSW + VIC + QLD + WA + SA + TAS + ACT + NT)) OVER() 
-         AS DECIMAL(5,2)) AS Percent_of_National
-FROM ED_Presentations_By_Age_Sex
-GROUP BY Age_group, Sex
-ORDER BY Sex, Age_group;
-```
-
-
 */
