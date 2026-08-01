@@ -9,7 +9,7 @@ This project was undertaken to demonstrate my interest in healthcare settings an
 Project Spotlight:
 
 Identifying Paediatric Demographic Anomalies
-Using T-SQL window functions and Power BI, I engineered a pipeline to analyse 9.09M healthcare records. Key Discovery: Identified a 1.18% national variance in the 0–4 age group, where male presentations (500k) significantly outpace females (392k)—a finding featured in the final dashboard.
+Using T-SQL window functions and Power BI, I engineered a pipeline to analyse 9.09M healthcare records. Key Discovery: Identified a 1.18% national variance in the 0–4 age group, where male presentations (500k) significantly outpace females (392k) repeating in the 5–14 age bracket with a 0.98% national variance (467k male vs. 378k female presentations — a finding featured in the final dashboard.
 
 
 
@@ -57,7 +57,7 @@ Gender footprint: Females represent 48.9% of the national total, with a distinct
 
 Paediatric variance: A significant 1.18% national variance was discovered in the 0-4 age group, where male presentations (approximately 500k) significantly outpace females (approximately 392k).
 
-Volume spike: The 25-34 age bracket holds the highest presentation-volume nationally, primarily driven by female presentation.
+Volume spike: The 25-34 age bracket holds the highest presentation-volume nationally, primarily driven by female presentations peaking at 694k.
 
 
 
